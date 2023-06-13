@@ -14,7 +14,6 @@ In this Python Project we will input images and merge them together to form a be
 
 The Graphic User Interface created using tkinter looks like below:
 
-![GUI](https://user-images.githubusercontent.com/87162992/198704398-cf445445-9b6b-49dd-b7c8-49a5b798afa4.jpg)
 
 And using buttons we can select images. On click on a button a file explorer open so that we can select the image of our choice.
 After choosing two images we can click on "Fuse and Display Image " button to fuse the images together and get the result output on the screen.
